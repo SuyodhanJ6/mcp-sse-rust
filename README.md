@@ -36,7 +36,7 @@ A high-performance **Model Context Protocol (MCP)** server implemented in Rust t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/mcp-sse-rust.git
+   git clone https://github.com/SuyodhanJ6/mcp-sse-rust.git
    cd mcp-sse-rust
    ```
 

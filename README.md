@@ -234,12 +234,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Model Context Protocol](https://github.com/modelcontextprotocol) - Protocol specification
 - [MCP SSE Rust](https://github.com/SuyodhanJ6/mcp-sse-rust) - Related MCP server implementation
 
-## 📞 Support
 
-If you have any questions or need help, please:
-- Open an [issue](https://github.com/your-username/mcp-sse-rust/issues)
-- Check the [documentation](https://github.com/your-username/mcp-sse-rust/wiki)
-
----
-
-Made with ❤️ in Rust by [Prashant Malge](https://github.com/your-username)
+Made with ❤️ in Rust by [Prashant Malge](https://github.com/SuyodhanJ6)
